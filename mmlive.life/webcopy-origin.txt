@@ -1,0 +1,296 @@
+Uri: https://images.dmca.com/Badges/DMCABadgeHelper.min.js
+File Name: C:\Downloaded Web Sites\mmlive.life\Badges\DMCABadgeHelper.min.js
+Content Type: application/javascript
+
+Uri: https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=f7e012c0-25e3-4c49-a78e-24f4802a68d6
+File Name: C:\Downloaded Web Sites\mmlive.life\Badges\_dmca_premi_badge_1.png
+Content Type: image/png
+
+Uri: https://mm.mm1cloud.com/js/st.min.js
+File Name: C:\Downloaded Web Sites\mmlive.life\js\st.min.js
+Content Type: text/javascript
+
+Uri: https://mmlive.life/
+File Name: C:\Downloaded Web Sites\mmlive.life\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/cach-cai-dat-mmlive-cho-android/
+File Name: C:\Downloaded Web Sites\mmlive.life\cach-cai-dat-mmlive-cho-android\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\mmlive.life\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://mmlive.life/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\mmlive.life\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://mmlive.life/chinh-sach-dai-ly-mmlive-2021/
+File Name: C:\Downloaded Web Sites\mmlive.life\chinh-sach-dai-ly-mmlive-2021\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/gai-xinh-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\gai-xinh-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/huong-dan-cach-danh-keo-chau-au-hieu-qua-nhat/
+File Name: C:\Downloaded Web Sites\mmlive.life\huong-dan-cach-danh-keo-chau-au-hieu-qua-nhat\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/huong-dan-dat-cuoc-bong-da-tren-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\huong-dan-dat-cuoc-bong-da-tren-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/huong-dan-nap-rut-tien-thang-bong-da-tren-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\huong-dan-nap-rut-tien-thang-bong-da-tren-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/huong-dan-nap-tien-bang-momo-tren-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\huong-dan-nap-tien-bang-momo-tren-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/huong-dan-nap-tien-bang-the-ngan-hang-tren-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\huong-dan-nap-tien-bang-the-ngan-hang-tren-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/huong-dan-nap-tien-bang-viettel-pay-tren-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\huong-dan-nap-tien-bang-viettel-pay-tren-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/huong-dan-nap-tien-bang-zalo-pay-tren-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\huong-dan-nap-tien-bang-zalo-pay-tren-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/huong-dan-nap-tien-rut-tien-tren-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\huong-dan-nap-tien-rut-tien-tren-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/kiem-boi-tien-tu-nghe-moi-idol-livestream/
+File Name: C:\Downloaded Web Sites\mmlive.life\kiem-boi-tien-tu-nghe-moi-idol-livestream\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/mmlive-cho-iphone-cach-tai-xuong-va-cai-dat-mmlive-cho-dien-thoai-iphone/
+File Name: C:\Downloaded Web Sites\mmlive.life\mmlive-cho-iphone-cach-tai-xuong-va-cai-dat-mmlive-cho-dien-thoai-iphone\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/mmlive-la-gi-dieu-gi-khien-mmlive-thu-hut-nguoi-dung/
+File Name: C:\Downloaded Web Sites\mmlive.life\mmlive-la-gi-dieu-gi-khien-mmlive-thu-hut-nguoi-dung\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/nap-tich-luy-nhan-thuong-tuan-tren-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\nap-tich-luy-nhan-thuong-tuan-tren-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/nap-tien-hom-nay-ngay-mai-nhan-tien-khuyen-mai/
+File Name: C:\Downloaded Web Sites\mmlive.life\nap-tien-hom-nay-ngay-mai-nhan-tien-khuyen-mai\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/nhan-thuong-rut-tien-lan-dau-cho-nguoi-moi/
+File Name: C:\Downloaded Web Sites\mmlive.life\nhan-thuong-rut-tien-lan-dau-cho-nguoi-moi\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/the-thao-bong-da-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\the-thao-bong-da-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/thua-nhan-khuyen-mai-tren-ung-dung-mmlive/
+File Name: C:\Downloaded Web Sites\mmlive.life\thua-nhan-khuyen-mai-tren-ung-dung-mmlive\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/tin-tuc-gai-xinh-hot-girl-moi-ngay/
+File Name: C:\Downloaded Web Sites\mmlive.life\tin-tuc-gai-xinh-hot-girl-moi-ngay\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/ve-chung-toi/
+File Name: C:\Downloaded Web Sites\mmlive.life\ve-chung-toi\index.htm
+Content Type: text/html
+
+Uri: https://mmlive.life/wp-content/litespeed/css/aecd922f499efd9945012a35ee6ae942.css?ver=86a5d
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\litespeed\css\aecd922f499efd9945012a35ee6ae942.css
+Content Type: text/css
+
+Uri: https://mmlive.life/wp-content/litespeed/js/b755ccd3819ecde3436d46f355c27a21.js?ver=86a5d
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\litespeed\js\b755ccd3819ecde3436d46f355c27a21.js
+Content Type: text/javascript
+
+Uri: https://mmlive.life/wp-content/themes/flatsome/assets/js/chunk.countup.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\themes\flatsome\assets\js\chunk.countup.js
+Content Type: text/javascript
+
+Uri: https://mmlive.life/wp-content/themes/flatsome/assets/js/chunk.sticky-sidebar.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\themes\flatsome\assets\js\chunk.sticky-sidebar.js
+Content Type: text/javascript
+
+Uri: https://mmlive.life/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\themes\flatsome\assets\js\chunk.tooltips.js
+Content Type: text/javascript
+
+Uri: https://mmlive.life/wp-content/themes/flatsome/assets/js/chunk.vendors-popups.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\themes\flatsome\assets\js\chunk.vendors-popups.js
+Content Type: text/javascript
+
+Uri: https://mmlive.life/wp-content/themes/flatsome/assets/js/chunk.vendors-slider.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\themes\flatsome\assets\js\chunk.vendors-slider.js
+Content Type: text/javascript
+
+Uri: https://mmlive.life/wp-content/uploads/2020/12/kiem-boi-tien-mmlive-1-800x343.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2020\12\kiem-boi-tien-mmlive-1-800x343.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/banner-slide.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\banner-slide.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/cropped-logo-mmliveus-180x180.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\cropped-logo-mmliveus-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/cropped-logo-mmliveus-192x192.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\cropped-logo-mmliveus-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/cropped-logo-mmliveus-32x32.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\cropped-logo-mmliveus-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-rut-tien-mmlive-800x343-1-768x329.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-rut-tien-mmlive-800x343-1-768x329.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-rut-tien-mmlive-800x343-1.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-rut-tien-mmlive-800x343-1.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-tien-momo-mmlive-800x343.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-tien-momo-mmlive-800x343.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-tien-ngan-hang-mmlive-800x343.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-tien-ngan-hang-mmlive-800x343.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-tien-viettel-pay-mmlive-1400x600.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-tien-viettel-pay-mmlive-1400x600.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-tien-viettel-pay-mmlive-1536x659.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-tien-viettel-pay-mmlive-1536x659.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-tien-viettel-pay-mmlive-2048x878.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-tien-viettel-pay-mmlive-2048x878.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-tien-viettel-pay-mmlive-768x329.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-tien-viettel-pay-mmlive-768x329.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/nap-tien-viettel-pay-mmlive-800x343.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\nap-tien-viettel-pay-mmlive-800x343.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/tai-va-cai-dat-768x329.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\tai-va-cai-dat-768x329.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/tai-va-cai-dat-800x343.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\tai-va-cai-dat-800x343.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/01/tai-va-cai-dat.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\01\tai-va-cai-dat.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/06/logo-mmliveus.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\06\logo-mmliveus.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/06/QQLIVE-BACKGROUND-1-800x376.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\06\QQLIVE-BACKGROUND-1-800x376.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/06/tai-va-cai-dat-adroind-768x329.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\06\tai-va-cai-dat-adroind-768x329.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/06/tai-va-cai-dat-adroind-800x343.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\06\tai-va-cai-dat-adroind-800x343.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/06/tai-va-cai-dat-adroind.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\06\tai-va-cai-dat-adroind.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2021/07/gai-photo-730x400.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2021\07\gai-photo-730x400.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2022/10/Untitled-1-1-768x385.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2022\10\Untitled-1-1-768x385.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2022/10/Untitled-1-1-798x400.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2022\10\Untitled-1-1-798x400.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2022/10/Untitled-1-1.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2022\10\Untitled-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2022/10/Untitled-4-768x384.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2022\10\Untitled-4-768x384.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2022/10/Untitled-4-800x400.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2022\10\Untitled-4-800x400.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2022/10/Untitled-4.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2022\10\Untitled-4.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2023/07/Untitled-1-1-768x384.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\07\Untitled-1-1-768x384.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2023/07/Untitled-1-1-800x400.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\07\Untitled-1-1-800x400.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2023/07/Untitled-1-1.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\07\Untitled-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2023/07/Untitled-1-2-768x384.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\07\Untitled-1-2-768x384.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2023/07/Untitled-1-2-800x400.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\07\Untitled-1-2-800x400.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2023/07/Untitled-1-2.jpg
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\07\Untitled-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://mmlive.life/wp-content/uploads/2023/12/android.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\12\android.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2023/12/ios.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\12\ios.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-content/uploads/2023/12/view-web.png
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-content\uploads\2023\12\view-web.png
+Content Type: image/png
+
+Uri: https://mmlive.life/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\mmlive.life\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-DVK193ETN2
+File Name: C:\Downloaded Web Sites\mmlive.life\gtag\js
+Content Type: application/javascript
+

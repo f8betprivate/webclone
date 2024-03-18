@@ -1,0 +1,616 @@
+Uri: http://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_bg.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\index.html
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/author/f8bet-com-ph/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\author\f8bet-com-ph\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/ban-ca/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\ban-ca\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/ban-ca/cach-hack-may-ban-ca/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\ban-ca\cach-hack-may-ban-ca\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/ban-ca/feed/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\ban-ca\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://f8bet.com.ph/ban-ca/meo-ban-ca-an-tien/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\ban-ca\meo-ban-ca-an-tien\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/casino/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\casino\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/casino/cach-choi-bai-lieng/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\casino\cach-choi-bai-lieng\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/casino/cach-choi-bai-phom/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\casino\cach-choi-bai-phom\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/casino/cach-choi-roulette/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\casino\cach-choi-roulette\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/casino/cach-dat-cuoc-baccarat/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\casino\cach-dat-cuoc-baccarat\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/casino/feed/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\casino\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://f8bet.com.ph/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://f8bet.com.ph/comments/feed/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://f8bet.com.ph/da-ga/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\da-ga\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/da-ga/da-ga-campuchia/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\da-ga\da-ga-campuchia\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/da-ga/da-ga-noi/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\da-ga\da-ga-noi\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/da-ga/feed/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\da-ga\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://f8bet.com.ph/feed/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://f8bet.com.ph/no-hu/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\no-hu\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/no-hu/feed/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\no-hu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://f8bet.com.ph/the-thao/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\the-thao\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/the-thao/cach-danh-keo-chap/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\the-thao\cach-danh-keo-chap\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/the-thao/feed/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\the-thao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://f8bet.com.ph/the-thao/keo-dong-banh/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\the-thao\keo-dong-banh\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/the-thao/keo-hiep-phu/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\the-thao\keo-hiep-phu\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/the-thao/tai-xiu-2-trai/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\the-thao\tai-xiu-2-trai\index.htm
+Content Type: text/html
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/font
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\font
+Content Type: 
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfABc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfABc-AMP6lbBP.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBBc-AMP6lQ.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfBBc-AMP6lQ.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBxc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfBxc-AMP6lbBP.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCBc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfCBc-AMP6lbBP.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfChc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfChc-AMP6lbBP.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCRc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfCRc-AMP6lbBP.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCxc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfCxc-AMP6lbBP.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4WxMKTU1Kvnz.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4WxMKTU1Kvnz.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu5mxMKTU1Kvnz.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu5mxMKTU1Kvnz-1.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu72xMKTU1Kvnz.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu72xMKTU1Kvnz-1.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7mxMKTU1Kvnz.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7mxMKTU1Kvnz-1.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\css\icons\fl-icons-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\css\icons\fl-icons-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.woff2
+Content Type: font/woff2
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.woff
+Content Type: application/font-woff
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\js\chunk.popups.js
+Content Type: text/javascript
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\js\chunk.slider.js
+Content Type: text/javascript
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\js\chunk.tooltips.js
+Content Type: text/javascript
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/assets/js/flatsome.js?ver=f2c57559524d9813afd4
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: text/javascript
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: text/javascript
+
+Uri: https://f8bet.com.ph/wp-content/themes/flatsome/style.css?ver=3.17.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\themes\flatsome\style.css
+Content Type: text/css
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-choi-bai-lieng-300x169.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-choi-bai-lieng-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-choi-bai-lieng-768x432.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-choi-bai-lieng-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-choi-bai-lieng.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-choi-bai-lieng.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-choi-bai-phom-cho-cac-tan-thu-300x169.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-choi-bai-phom-cho-cac-tan-thu-300x169.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-choi-bai-phom-cho-cac-tan-thu-768x432.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-choi-bai-phom-cho-cac-tan-thu-768x432.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-choi-bai-phom-cho-cac-tan-thu.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-choi-bai-phom-cho-cac-tan-thu.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-danh-keo-chap-300x173.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-danh-keo-chap-300x173.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-danh-keo-chap-768x442.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-danh-keo-chap-768x442.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-danh-keo-chap.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-danh-keo-chap.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-dat-cuoc-baccarat-300x169.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-dat-cuoc-baccarat-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-dat-cuoc-baccarat-768x432.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-dat-cuoc-baccarat-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-dat-cuoc-baccarat.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-dat-cuoc-baccarat.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-hack-may-ban-ca-300x169.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-hack-may-ban-ca-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-hack-may-ban-ca-768x432.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-hack-may-ban-ca-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/cach-hack-may-ban-ca.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\cach-hack-may-ban-ca.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/logo.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\logo.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/logo.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\logo.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/logo.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\logo.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/da-ga-campuchia-300x169.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\da-ga-campuchia-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/da-ga-campuchia-768x432.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\da-ga-campuchia-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/da-ga-campuchia.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\da-ga-campuchia.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/da-ga-noi-300x191.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\da-ga-noi-300x191.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/da-ga-noi-768x489.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\da-ga-noi-768x489.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/da-ga-noi.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\da-ga-noi.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-ban-ca-195x300.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-ban-ca-195x300.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-ban-ca.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-ban-ca.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-casino-194x300.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-casino-194x300.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-casino.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-casino.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-game-bai-195x300.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-game-bai-195x300.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-game-bai.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-game-bai.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet-hop-tac-cung-kenh-18.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet-hop-tac-cung-kenh-18.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet-lien-ket-ngan-hang.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet-lien-ket-ngan-hang.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-no-hu-195x300.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-no-hu-195x300.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-no-hu.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-no-hu.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-the-thao-195x300.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-the-thao-195x300.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-the-thao.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-the-thao.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-xo-so-195x300.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-xo-so-195x300.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/f8bet-xo-so.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\f8bet-xo-so.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/logo.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet.com_.ph_.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_banca-yl-300x295.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_banca-yl-300x295.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_banca-yl.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_banca-yl.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_Banca_jdb-300x295.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_Banca_jdb-300x295.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_Banca_jdb.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_Banca_jdb.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_Banca_ksby-300x295.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_Banca_ksby-300x295.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_Banca_ksby.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_Banca_ksby.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_cmd-300x289.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_cmd-300x289.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_cmd.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_cmd.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_sbta-300x289.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_sbta-300x289.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_sbta.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_sbta.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_sbty-300x289.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_sbty-300x289.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/F8bet_sbty.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\F8bet_sbty.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/keo-dong-banh-300x176.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\keo-dong-banh-300x176.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/keo-dong-banh-768x451.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\keo-dong-banh-768x451.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/keo-dong-banh.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\keo-dong-banh.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/keo-hiep-phu-300x169.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\keo-hiep-phu-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/keo-hiep-phu-768x432.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\keo-hiep-phu-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/keo-hiep-phu.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\keo-hiep-phu.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/meo-ban-ca-an-tien-300x150.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\meo-ban-ca-an-tien-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/meo-ban-ca-an-tien-768x384.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\meo-ban-ca-an-tien-768x384.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/meo-ban-ca-an-tien.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\meo-ban-ca-an-tien.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/Roulette-la-gi-300x169.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\Roulette-la-gi-300x169.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/Roulette-la-gi-768x432.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\Roulette-la-gi-768x432.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/Roulette-la-gi.png
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\Roulette-la-gi.png
+Content Type: image/png
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/tai-xiu-2-trai-300x177.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\tai-xiu-2-trai-300x177.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/tai-xiu-2-trai-768x454.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\tai-xiu-2-trai-768x454.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-content/uploads/2024/03/tai-xiu-2-trai.jpg
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-content\uploads\2024\03\tai-xiu-2-trai.jpg
+Content Type: image/jpeg
+
+Uri: https://f8bet.com.ph/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-includes\js\hoverIntent.min.js
+Content Type: text/javascript
+
+Uri: https://f8bet.com.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://f8bet.com.ph/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://f8bet.com.ph/wp-json/
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://f8bet.com.ph/wp-json/oembed/1.0/embed?url=https:%2F%2Ff8bet.com.ph%2F
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://f8bet.com.ph/wp-json/oembed/1.0/embed?url=https:%2F%2Ff8bet.com.ph%2F&format=xml
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://f8bet.com.ph/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://f8bet.com.ph/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://f8bet.com.ph/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://f8bet.com.ph/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://f8bet.com.ph/wp-json/wp/v2/categories/7
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\wp\v2\categories\7
+Content Type: application/json
+
+Uri: https://f8bet.com.ph/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://f8bet.com.ph/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://images.dmca.com/Badges/DMCABadgeHelper.min.js
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\Badges\DMCABadgeHelper.min.js
+Content Type: application/javascript
+
+Uri: https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=64d3cc24-2095-449b-9851-c66f03032ccd
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\Badges\_dmca_premi_badge_1.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/83c6dfb15209091b45742c909b4f52ff?s=180&d=mm&r=g
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\avatar\83c6dfb15209091b45742c909b4f52ff-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/83c6dfb15209091b45742c909b4f52ff?s=90&d=mm&r=g
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\avatar\83c6dfb15209091b45742c909b4f52ff.png
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-D6NVERHSTH
+File Name: C:\Downloaded Web Sites\f8bet.com.ph\gtag\js
+Content Type: application/javascript
+

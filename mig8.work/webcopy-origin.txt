@@ -1,0 +1,164 @@
+Uri: https://mig8.work/
+File Name: C:\Downloaded Web Sites\mig8.work\index.htm
+Content Type: text/html
+
+Uri: https://mig8.work/choi-co-trach-nhiem/
+File Name: C:\Downloaded Web Sites\mig8.work\choi-co-trach-nhiem\index.htm
+Content Type: text/html
+
+Uri: https://mig8.work/comments/feed/
+File Name: C:\Downloaded Web Sites\mig8.work\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mig8.work/feed/
+File Name: C:\Downloaded Web Sites\mig8.work\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mig8.work/huong-dan-nap-tien/
+File Name: C:\Downloaded Web Sites\mig8.work\huong-dan-nap-tien\index.htm
+Content Type: text/html
+
+Uri: https://mig8.work/huong-dan-rut-tien/
+File Name: C:\Downloaded Web Sites\mig8.work\huong-dan-rut-tien\index.htm
+Content Type: text/html
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBBc-AMP6lQ.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfBBc-AMP6lQ.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfChc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfChc-AMP6lbBP.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCxc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfCxc-AMP6lbBP.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfBBc-AMP6lQ.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfBBc-AMP6lQ.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfChc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfChc-AMP6lbBP.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCxc-AMP6lbBP.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfCxc-AMP6lbBP.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/plugins/wp-rocket/assets/img/youtube.png
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\plugins\wp-rocket\assets\img\youtube.png
+Content Type: image/png
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.17.6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.17.6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.17.6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.17.6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.17.6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: font/woff
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.17.6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\js\chunk.popups.js
+Content Type: application/javascript
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.17.6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\js\chunk.slider.js
+Content Type: application/javascript
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.17.6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\js\chunk.tooltips.js
+Content Type: application/javascript
+
+Uri: https://mig8.work/wp-content/themes/flatsome/assets/js/flatsome.js?ver=89ac940c4841291ea8d6
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/cropped-mig8-icon-180x180.png
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\cropped-mig8-icon-180x180.png
+Content Type: image/png
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/cropped-mig8-icon-192x192.png
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\cropped-mig8-icon-192x192.png
+Content Type: image/png
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/cropped-mig8-icon-32x32.png
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\cropped-mig8-icon-32x32.png
+Content Type: image/png
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/Dang-ky-MIG8-hom-nay-Tang-ngay-50k-tien-mat.jpeg
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\Dang-ky-MIG8-hom-nay-Tang-ngay-50k-tien-mat.jpeg
+Content Type: image/jpeg
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/Jackpot-no-hu-cuc-khung-MIG8-tang-toi-18789000-VND.jpeg
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\Jackpot-no-hu-cuc-khung-MIG8-tang-toi-18789000-VND.jpeg
+Content Type: image/jpeg
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/MIG8-Nha-Cai-Chau-A-Dinh-Cao-20231920x660-1.jpg
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\MIG8-Nha-Cai-Chau-A-Dinh-Cao-20231920x660-1.jpg
+Content Type: image/jpeg
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/MIG8-Thuong-nap-tien-khong-gioi-han-moi-ngay.jpeg
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\MIG8-Thuong-nap-tien-khong-gioi-han-moi-ngay.jpeg
+Content Type: image/jpeg
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/Than-bai-dinh-cao_-MIG8-thuong-dam-toi-2888000-VND.jpeg
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\Than-bai-dinh-cao_-MIG8-thuong-dam-toi-2888000-VND.jpeg
+Content Type: image/jpeg
+
+Uri: https://mig8.work/wp-content/uploads/2023/10/Thua-cuoc-the-thao-MIG8-hoan-toi-16798000-VND.jpeg
+File Name: C:\Downloaded Web Sites\mig8.work\wp-content\uploads\2023\10\Thua-cuoc-the-thao-MIG8-hoan-toi-16798000-VND.jpeg
+Content Type: image/jpeg
+
+Uri: https://mig8.work/wp-json/
+File Name: C:\Downloaded Web Sites\mig8.work\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://mig8.work/wp-json/oembed/1.0/embed?url=https:%2F%2Fmig8.work%2F
+File Name: C:\Downloaded Web Sites\mig8.work\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://mig8.work/wp-json/oembed/1.0/embed?url=https:%2F%2Fmig8.work%2F&format=xml
+File Name: C:\Downloaded Web Sites\mig8.work\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://mig8.work/wp-json/wp/v2/pages/102
+File Name: C:\Downloaded Web Sites\mig8.work\wp-json\wp\v2\pages\102
+Content Type: application/json
+
+Uri: https://mig8.work/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\mig8.work\xmlrpc.php
+Content Type: text/xml
+
